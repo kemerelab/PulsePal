@@ -22,7 +22,7 @@ function varargout = first(varargin)
 
 % Edit the above text to modify the response to help first
 
-% Last Modified by GUIDE v2.5 13-Feb-2015 12:17:03
+% Last Modified by kinsey v2.5 13-Feb-2015 12:17:03
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
